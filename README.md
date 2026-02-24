@@ -1,8 +1,8 @@
 ## Olá, eu sou o Guilherme Ribeiro, Desenvolvedor Junior Fullstack!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-machado-ribeiro-a19b39232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:gribeiro@ssector7.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-henrique-machado-ribeiro-a19b39232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:gribeiro@ssector7.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -38,13 +38,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh1inx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1inx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh1inx&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh1inx&theme=dracula" />
 </div>
 
 ### 🐍 My Contributions Snake
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=sh1inx&color_snake=orange&dots=white&bg=black" alt="snake" />
+  <img src="https://raw.githubusercontent.com/sh1inx/sh1inx/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
