@@ -3,7 +3,19 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-henrique-machado-ribeiro-a19b39232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gribeiro@ssector7.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-brightgreen?style=for-the-badge">
 </div>
+
+---
+
+### 🚀 Sobre mim & Objetivos
+
+- 🎯 **Em busca de novas oportunidades:** Estou ativamente procurando por desafios como Desenvolvedor Fullstack (CLT ou Freelance).
+- 💻 **Foco atual:** Aprimorar arquiteturas escaláveis e entregar soluções eficientes de ponta a ponta.
+- 🤝 **Colaboração:** Aberto para contribuir em projetos Open Source e parcerias em novos produtos.
+- ⚡ **Diferencial:** Facilidade de aprendizado em novas stacks e foco total em Clean Code.
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -29,21 +41,6 @@
 
 ---
 
-### 🚀 Sobre mim
-
-- 💻 Atualmente focado em aprimorar minhas habilidades como **Fullstack**.
-- 🎓 Estudando novas arquiteturas e padrões de projeto.
-- ⚡ Curiosidade: Busco sempre escrever código limpo e eficiente.
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <a href="https://github.com/sh1inx/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1inx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/sh1inx/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1inx&layout=compact&theme=dracula" />
-  </a>
+  <strong>Vamos construir algo incrível juntos?</strong> Contate-me pelo LinkedIn ou E-mail! 🚀
 </div>
-
----
