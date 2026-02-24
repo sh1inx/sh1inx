@@ -38,13 +38,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh1inx&theme=dracula" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh1inx&theme=dracula" />
-</div>
-
-### 🐍 My Contributions Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sh1inx/sh1inx/output/github-contribution-grid-snake.svg" alt="snake" />
+  <a href="https://github.com/sh1inx/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1inx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/sh1inx/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1inx&layout=compact&theme=dracula" />
+  </a>
 </div>
 
 ---
