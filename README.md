@@ -10,7 +10,6 @@
 
 ### 🚀 Sobre mim & Objetivos
 
-- 🎯 **Em busca de novas oportunidades:** Estou ativamente procurando por desafios como Desenvolvedor Fullstack (CLT ou Freelance).
 - 💻 **Foco atual:** Aprimorar arquiteturas escaláveis e entregar soluções eficientes de ponta a ponta.
 - 🤝 **Colaboração:** Aberto para contribuir em projetos Open Source e parcerias em novos produtos.
 - ⚡ **Diferencial:** Facilidade de aprendizado em novas stacks e foco total em Clean Code.
